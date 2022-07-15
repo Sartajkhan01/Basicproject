@@ -10,7 +10,7 @@ namespace Basicproject
     {
         public int total_Emp_Wage;
         public int empWageperHr;
-        public string company;
+        public string? company;
         public int empWagePerHr;
         public int workingDaysPerMonth;
         public int maxHrsPerMonth;
