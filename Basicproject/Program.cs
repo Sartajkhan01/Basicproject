@@ -23,17 +23,13 @@
                 Console.WriteLine("Employee is Absent");
             }
         }
-        public static void Main(string[]args)
-        {
-            UC6_WagePerHrsMonth prg = new UC6_WagePerHrsMonth();
-            prg.CalucalteWage();
-            
+      
+    }          
 
 
 
 
 
 
-        }
-    }
-}
+        
+    
